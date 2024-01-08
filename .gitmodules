@@ -1,0 +1,3 @@
+[submodule "Seg"]
+	path = Seg
+	url = https://github.com/Zeudfish/Seg.git

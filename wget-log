@@ -1,0 +1,4 @@
+--2023-11-08 15:12:16--  https://huggingface.co/BAAI/SegGPT/resolve/main/seggpt_vit_large.pth
+正在解析主机 huggingface.co (huggingface.co)... 128.242.245.253, 2a03:2880:f134:83:face:b00c:0:25de
+正在连接 huggingface.co (huggingface.co)|128.242.245.253|:443... 失败：连接超时。
+正在连接 huggingface.co (huggingface.co)|2a03:2880:f134:83:face:b00c:0:25de|:443... 失败：网络不可达。

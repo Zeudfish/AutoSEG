@@ -1,0 +1,8 @@
+output*
+*.pth
+**.pyc
+**/__pycache__/**
+__pycache_
+examples
+cimai_data
+detectron2

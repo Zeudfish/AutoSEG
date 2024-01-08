@@ -1,0 +1,4 @@
+numpy
+opencv-python
+timm==0.3.2
+fairscale==0.4.13
